@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhruia
+- 👋 Hi, I’m @Dhuria
 - 👀 I’m interested in coding and making self initiated projects although i am a beginner
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on self projects
