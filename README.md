@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to build a system which integrates both my passions, shooting and coding.
       that would be a ML based project, anybody instred to join to please feel free to contact.
-- 📫 How to reach me @ldhuria83@gmail.com
+- 📫 How to reach me
+-  @ldhuria83@gmail.com (gmail),
+-  and www.linkedin.com/in/lakshika-dhuria (Linked In)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am still in school
 
